@@ -1,0 +1,30 @@
+project:
+  name: 'PSG2-2021-G2-23 Petclinic'
+  owner: 'L2'
+  teamId: '23'
+  identities:
+    github:
+      url: 'https://github.com/gii-is-psg2/psg2-2122-g2-23'
+    heroku:
+      url: 'https://psg2-2122-g2-23.herokuapp.com/'
+  members:
+    member1:
+      name: 'Francisco'
+      surname: 'Garcia de la Vega' 
+      githubUsername: 'franciscogvg6'
+    member2:
+      name: 'Francisco Javier'
+      surname: 'Vazquez'
+      githubUsername: 'javiervaz01'
+    member3:
+      name: 'Inmaculada'
+      surname: 'Mayo'
+      githubUsername: 'mysInma'
+    member4:
+      name: 'Álvaro'
+      surname: 'Vazquez'
+      githubUsername: 'alvvazort'
+    member5:
+      name: 'Jesus'
+      surname: 'Paez'
+      githubUsername: 'Hesusu-ikie'

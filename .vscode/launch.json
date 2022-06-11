@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch PetclinicApplication",
+            "request": "launch",
+            "mainClass": "org.springframework.samples.petclinic.PetclinicApplication",
+            "projectName": "spring-petclinic.psg2.2122-G2-23"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-PetclinicApplication<spring-petclinic>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "mainClass": "org.springframework.samples.petclinic.PetclinicApplication",
+            "projectName": "spring-petclinic",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
